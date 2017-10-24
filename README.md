@@ -1,5 +1,8 @@
 # DataCleansing
-Demonstrate data formatting/cleaning for exploration by data analysts for model building
+Demonstrate data formatting/cleaning for exploration by data analysts for model building.
+The following file should be downloaded into the project directory and unzipped before executing code
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/downloads/tmdb-5000-movie-dataset.zip
+
 
 Objectives:
 1. Format data to the required input format of the machine learning algorithm used
@@ -87,4 +90,4 @@ Features are classified as:
 The problem of feature interaction can be also addressed by constructing new features from the basic feature set. This technique is called feature construction/transformation.
 
 
-
+Reference : Data Preprocessing for Supervised Learning Whitepaper [S. B. Kotsiantis, D. Kanellopoulos and P. E. Pintelas]
