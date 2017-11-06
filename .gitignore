@@ -1,2 +1,6 @@
 *.csv
+metastore_db
+metastore_db/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
 
